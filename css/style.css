@@ -1,0 +1,41 @@
+body{
+   margin: 0;
+}
+header{
+    background-color: #FFF9F4;
+}
+.banner{
+  
+    background-color: #FFF9F4;
+}
+.banner_title{
+    margin-bottom: 0;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #FA804C;
+    font-size: 5rem;
+}
+.banner_title span{
+    color: #363958;
+   
+}
+.btn_custom{
+    background-color: rgba(97, 61, 243, 1) !important;
+    
+}
+.shoes_title{
+    font-family: 'Bebas Neue', sans-serif;
+}
+.shoes_img{
+   
+    padding: 20px;
+    background-color: white;
+}
+.shoes_img img{
+   
+}
+.about_all{
+
+}
+.about div img{
+    width: 100% !important;
+}
